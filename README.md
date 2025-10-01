@@ -14,7 +14,7 @@ I'm a passionate software engineer specializing in full-stack web development.
 
 ### 📈 GitHub Stats
 
-![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
+![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivk-1&show_icons=true&theme=radical)
 
 ---
 
