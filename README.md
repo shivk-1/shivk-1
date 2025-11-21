@@ -4,10 +4,10 @@ i'm shivansh. i build things with code and ai.
 
 computer engineering @ university of waterloo
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshkhullar)
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![portfolio](https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://shivkhullar.com)
-[![email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shivansh.khullar@uwaterloo.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshkhullar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivanshkhullar_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shivkhullar.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivansh.khullar@uwaterloo.ca)
 
 ---
 
@@ -39,4 +39,13 @@ deep learning • distributed systems • llm stuff • cloud infrastructure
 
 ---
 
-![](https://komarev.com/ghpvc/?username=shivk-1&color=blueviolet&style=flat-square&label=views)
+<div align="center">
+  
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shivk-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9&hide_title=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivk-1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=shivk-1&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
