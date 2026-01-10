@@ -13,7 +13,7 @@ computer engineering @ university of waterloo
 
 ## what i do
 
-founding engineer at rayat and company → building backend systems for car dealerships
+founding engineer at a stealth startup → building backend systems for car dealerships
 
 ---
 
@@ -34,8 +34,8 @@ founding engineer at rayat and company → building backend systems for car deal
 ## learning right now
 
 - deep learning stuff
+- vibecoding
 - how to make llms do cool things
-- cloud infrastructure that doesn't break
 
 ---
 
