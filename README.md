@@ -25,7 +25,7 @@ founding engineer at a stealth startup → building backend systems for car deal
 
 **ai/ml:** scikit-learn • pandas • numpy • opencv • yolov5
 
-**cloud:** aws • azure • postgresql
+**cloud:** aws • postgresql (supabase)
 
 **tools:** git • vscode • jupyter • roboflow • openai
 
