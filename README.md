@@ -15,22 +15,6 @@ computer engineering @ university of waterloo
 
 founding engineer at a stealth startup → building backend systems for car dealerships
 
----
-
-## tech i use
-
-**languages:** python • javascript • typescript • c++ • sql
-
-**web:** react • node.js • express • graphql • flask
-
-**ai/ml:** scikit-learn • pandas • numpy • opencv • yolov5
-
-**cloud:** aws • postgresql (supabase)
-
-**tools:** git • vscode • jupyter • roboflow • openai
-
----
-
 ## learning right now
 
 - deep learning stuff
