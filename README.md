@@ -13,40 +13,12 @@
 
 <br/>
 
-<!-- SOCIAL BUTTONS — OPTION SET 1: flat-square (current style) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshkhullar)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shivansh.khullar@uwaterloo.ca)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://shivkhullar.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shivanshk_)
-
 <!-- OPTION SET 2: for-the-badge (bold, chunky) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshkhullar)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivansh.khullar@uwaterloo.ca)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shivkhullar.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivanshk_)
-
-<!-- OPTION SET 3: social (clean, minimal, no background) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/shivanshkhullar)
-[![X](https://img.shields.io/badge/X-000000?style=social&logo=x)](https://x.com/YOUR_X_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail)](mailto:shivansh.khullar@uwaterloo.ca)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=social&logo=google-chrome)](https://shivkhullar.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram)](https://instagram.com/shivanshk_)
-
-<!-- OPTION SET 4: plastic (slight 3d sheen) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshkhullar)
-[![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:shivansh.khullar@uwaterloo.ca)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=plastic&logo=google-chrome&logoColor=white)](https://shivkhullar.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/shivanshk_)
-
-<!-- OPTION SET 5: flat (no gradient, ultra clean) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshkhullar)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivansh.khullar@uwaterloo.ca)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=google-chrome&logoColor=white)](https://shivkhullar.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shivanshk_)
 
 </div>
 
