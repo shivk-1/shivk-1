@@ -30,10 +30,9 @@
 
 ### now
 
-- cs @ university of waterloo
+- ce @ university of waterloo
 - going deep on computer vision, deep learning, and what llms can actually do
-- building more projects — currently pushing backend for wateats
-- exploring the gap between "works in notebook" and "works in prod"
+- building more projects
 
 <br/>
 
