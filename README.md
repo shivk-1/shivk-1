@@ -1,47 +1,57 @@
-# hey 👋
+<!-- typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=founding+engineer.+cs+%40+waterloo.;building+things+that+ship." alt="Typing SVG" />
+  </a>
+</p>
 
-i'm shivansh. i build things with code and ai.
+<h2 align="center">shivansh khullar</h2>
+<p align="center">
+  i build backend systems that move fast and don't break. currently deep in ai.
+</p>
 
-computer engineering @ university of waterloo
+<p align="center">
+  <a href="https://linkedin.com/in/shivanshkhullar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:shivansh.khullar@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://shivkhullar.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://instagram.com/shivanshk_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanshkhullar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivanshk_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shivkhullar.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivansh.khullar@uwaterloo.ca)
-
----
-
-## what i do
-
-founding engineer at a stealth startup → building backend systems for car dealerships
-
-## learning right now
-
-- deep learning stuff
-- vibecoding
-- how to make llms do cool things
-
----
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shivk-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=C9D1D9&hide_title=true"/>
-
-<!-- Top Languages Card -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivk-1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9"/>
-
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivk-1&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivk-1&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
-
-<!-- Trophy Stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=shivk-1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-
-</div>
+<br/>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivk-1&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+### now
+
+- founding engineer at a stealth startup — building backend infra for car dealerships
+- going deep on deep learning and what llms can actually do in production
+- figuring out the line between "vibe" and "ship"
+
+---
+
+### featured projects
+
+> **[project one](#)** — one sharp sentence on what it does and why it matters.
+
+> **[project two](#)** — one sharp sentence on what it does and why it matters.
+
+> **[project three](#)** — one sharp sentence on what it does and why it matters.
+
+> **[project four](#)** — one sharp sentence on what it does and why it matters.
+
+---
+
+### stack
+
+`python` `typescript` `go` `postgres` `redis` `aws` `docker` `pytorch`
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivk-1&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="contribution graph" />
+</p>
