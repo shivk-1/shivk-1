@@ -2,8 +2,8 @@ name: Generate Snake & Pacman
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -11,25 +11,16 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # ── Snake ──────────────────────────────────────────────────────────
-      - name: Generate snake (light + dark)
+      - name: Generate snake and pacman animations
         uses: Platane/snk@v3
         with:
           github_user_name: shivk-1
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/pacman-contribution-graph.svg?color_snake=yellow&color_dots=#0f172a,#1e3a5f,#1d4ed8,#3b82f6,#93c5fd
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=yellow
 
-      # ── Pacman ─────────────────────────────────────────────────────────
-      - name: Generate pacman (light + dark)
-        uses: kiranhart/github-contribution-pacman@v1
-        with:
-          github_user_name: shivk-1
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
-
-      # ── Push both to the `output` branch ───────────────────────────────
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
