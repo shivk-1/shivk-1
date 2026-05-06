@@ -21,8 +21,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/pacman-contribution-graph.svg?color_snake=yellow
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=yellow
+            dist/pacman-contribution-graph.svg?color_snake=%23ef4444
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=%23ef4444
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
