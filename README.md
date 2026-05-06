@@ -23,25 +23,25 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- DIVIDER — pick ONE of the 5 below, delete the rest             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- DIVIDER — pick ONE of the 5 options below, delete the other 4     -->
 
-<!-- OPTION 1: animated rainbow shimmer gif (current, colorful)     -->
+<!-- OPTION 1: animated rainbow shimmer gif                             -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- OPTION 2: plain markdown rule (ultra minimal, no dependencies) -->
+<!-- OPTION 2: plain markdown rule (ultra minimal, zero dependencies)   -->
 ---
 
-<!-- OPTION 3: gradient fade bar — dark → blue → dark (sleek)      -->
+<!-- OPTION 3: gradient bar — fades dark → blue → dark                 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=2"/>
 
-<!-- OPTION 4: soft capsule wave — barely-there section break       -->
+<!-- OPTION 4: soft capsule wave                                        -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=30&section=header&fontSize=0"/>
 
-<!-- OPTION 5: transparent pixel spacer line (invisible, just air)  -->
+<!-- OPTION 5: colored pixel line                                       -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <br/>
 
@@ -53,7 +53,7 @@
 
 <br/>
 
-<!-- [CHOSEN DIVIDER] -->
+<!-- [PASTE CHOSEN DIVIDER HERE] -->
 
 <br/>
 
@@ -104,7 +104,7 @@ tool for uwaterloo students to find food they're craving across campus cafeteria
 
 <br/>
 
-<!-- [CHOSEN DIVIDER] -->
+<!-- [PASTE CHOSEN DIVIDER HERE] -->
 
 <br/>
 
@@ -131,7 +131,7 @@ tool for uwaterloo students to find food they're craving across campus cafeteria
 
 <br/>
 
-<!-- [CHOSEN DIVIDER] -->
+<!-- [PASTE CHOSEN DIVIDER HERE] -->
 
 <br/>
 
@@ -139,12 +139,18 @@ tool for uwaterloo students to find food they're craving across campus cafeteria
 
 <div align="center">
 
+<!-- pacman eating your contributions -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/pacman-contribution-graph/pacman-contribution-graph-dark-mode.gif" alt="pacman contributions" />
+
+<br/><br/>
+
+<!-- contribution graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivk-1&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="contribution graph" />
 
 <br/><br/>
 
-<!-- 3D isometric contributions — working Skyline alternative -->
-[![3D Contributions](https://img.shields.io/badge/View_Isometric_3D_Contributions-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://isometric-contributions.vercel.app/?username=shivk-1)
+<!-- 3D skyline — GitHub strips iframes, so this links out to your live interactive 3D skyline -->
+[![View My 3D Contribution Skyline](https://img.shields.io/badge/View_3D_Contribution_Skyline-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://www.skyline3d.in/shivk-1)
 
 </div>
 
