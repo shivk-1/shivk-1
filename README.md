@@ -27,7 +27,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
-# now
+
+### now
 
 - ce @ university of waterloo
 - going deep on computer vision, deep learning, and what llms can actually do
