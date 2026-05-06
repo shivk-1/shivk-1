@@ -108,13 +108,13 @@ tool for uwaterloo students to find food they're craving across campus cafeteria
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shivk-1/shivk-1/output/pacman-contribution-graph-dark.svg">
 </picture>
 
-<br/><br/><br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivk-1&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="contribution graph" />
 
 <br/>
 
-[![View 3D Contribution Skyline](https://img.shields.io/badge/View_3D_Contribution_Skyline-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://www.skyline3d.in/shivk-1)
+[![View 3D Contribution Skyline: April 2026](https://img.shields.io/badge/View_3D_Contribution_Skyline-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://www.skyline3d.in/shivk-1)
 
 </div>
 
