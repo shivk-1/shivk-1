@@ -105,9 +105,9 @@ tool for uwaterloo students to find food they're craving across campus cafeteria
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivk-1/shivk-1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivk-1/shivk-1/output/github-contribution-grid-snake.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/shivk-1/shivk-1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivk-1/shivk-1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivk-1/shivk-1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shivk-1/shivk-1/output/pacman-contribution-graph-dark.svg">
 </picture>
 
 <br/>
