@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=ce+%40+waterloo.+builder+of+things.;computer+vision+%7C+ml+%7C+backend+systems.;turning+ideas+into+code+that+ships." alt="Typing SVG" />
 </a>
@@ -23,37 +22,11 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- DIVIDER — pick ONE of the 5 options below, delete the other 4     -->
-
-<!-- OPTION 1: animated rainbow shimmer gif                             -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- OPTION 2: plain markdown rule (ultra minimal, zero dependencies)   -->
----
-
-<!-- OPTION 3: gradient bar — fades dark → blue → dark                 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=2"/>
-
-<!-- OPTION 4: soft capsule wave                                        -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=30&section=header&fontSize=0"/>
-
-<!-- OPTION 5: colored pixel line                                       -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
 ### now
 
 - ce @ university of waterloo
 - going deep on computer vision, deep learning, and what llms can actually do
 - building more projects — pushing backend for wateats
-
-<br/>
-
-<!-- [PASTE CHOSEN DIVIDER HERE] -->
 
 <br/>
 
@@ -104,10 +77,6 @@ tool for uwaterloo students to find food they're craving across campus cafeteria
 
 <br/>
 
-<!-- [PASTE CHOSEN DIVIDER HERE] -->
-
-<br/>
-
 ### stack
 
 <div align="center">
@@ -131,26 +100,31 @@ tool for uwaterloo students to find food they're craving across campus cafeteria
 
 <br/>
 
-<!-- [PASTE CHOSEN DIVIDER HERE] -->
-
-<br/>
-
 ### activity
 
 <div align="center">
 
-<!-- pacman eating your contributions -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/pacman-contribution-graph/pacman-contribution-graph-dark-mode.gif" alt="pacman contributions" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivk-1/shivk-1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivk-1/shivk-1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shivk-1/shivk-1/output/pacman-contribution-graph-dark.svg">
+</picture>
 
-<br/><br/>
+<br/>
 
-<!-- contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivk-1/shivk-1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivk-1/shivk-1/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/shivk-1/shivk-1/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivk-1&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="contribution graph" />
 
-<br/><br/>
+<br/>
 
-<!-- 3D skyline — GitHub strips iframes, so this links out to your live interactive 3D skyline -->
-[![View My 3D Contribution Skyline](https://img.shields.io/badge/View_3D_Contribution_Skyline-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://www.skyline3d.in/shivk-1)
+[![View 3D Contribution Skyline](https://img.shields.io/badge/View_3D_Contribution_Skyline-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://www.skyline3d.in/shivk-1)
 
 </div>
 
