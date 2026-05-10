@@ -6,7 +6,7 @@
 
 <br/>
 
-# shivansh khullar
+# shivansh khulla
 
 **building at the intersection of ml, computer vision, and systems that actually work.**
 
