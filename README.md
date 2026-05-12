@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=ce+%40+waterloo.+builder+of+things.;computer+vision+%7C+ml+%7C+backend+systems.;turning+ideas+into+code+that+ships." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=ce+%40+waterloo.+i+build+things.;computer+vision+%7C+ml+%7C+backend+stuff.;turning+ideas+into+reality." alt="Typing SVG" />
 </a>
 
 <br/>
