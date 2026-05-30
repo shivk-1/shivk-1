@@ -25,6 +25,7 @@
 ### now
 
 - comp eng @ university of waterloo
+- swe intern @ baseleaf
 - going deep on computer vision, deep learning, and what llms can actually do
 - interested in ai r&d + implementation
 
