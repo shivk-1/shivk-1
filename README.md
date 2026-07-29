@@ -31,53 +31,6 @@
 
 <br/>
 
-### featured projects
-
-<table>
-<tr>
-<td width="50%">
-
-**[sonata 🎵](https://github.com/shivk-1/sonata)**
-
-gesture-controlled musical instrument using computer vision + ml. tracks hand movements in real-time via webcam and plays piano, guitar, drums, and more — no hardware required.
-
-`python` &nbsp; `opencv` &nbsp; `mediapipe` &nbsp; `ml`
-
-</td>
-<td width="50%">
-
-**[unison 🌐](https://github.com/shivk-1/unison)**
-
-real-time asl, bsl, ssl & isl sign language translator — converts gestures to speech and text using computer vision + ml. built to close the communication gap.
-
-`python` &nbsp; `tensorflow` &nbsp; `cv2` &nbsp; `nlp`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[focus forest 🌲](https://github.com/shivk-1/focus-forest)**
-
-gamified chrome extension that grows a forest when you're focused, spreads wildfires when you're not. real-time focus tracking + ai-powered suggestions to keep you on track.
-
-`javascript` &nbsp; `chrome api` &nbsp; `ai`
-
-</td>
-<td width="50%">
-
-**[wateats 🍱](https://github.com/shivk-1/wateats)** &nbsp; `in progress`
-
-tool for uwaterloo students to find food they're craving across campus cafeterias — fast, simple, no more wandering. backend in progress.
-
-`typescript` &nbsp; `node.js` &nbsp; `react`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ### stack
 
 <div align="center">
