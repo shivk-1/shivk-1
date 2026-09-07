@@ -43,5 +43,3 @@
 [![View 3D Contribution Skyline: April 2026](https://img.shields.io/badge/View_3D_Contribution_Skyline-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://www.skyline3d.in/shivk-1)
 
 </div>
-
-<br/>
