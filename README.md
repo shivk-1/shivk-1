@@ -20,7 +20,7 @@
 
 - comp eng @ university of waterloo
 - prev. swe intern @ baseleaf
-- interested in ai/ml r&d + implementation
+- interested in ml + research
 
 </div>
 
