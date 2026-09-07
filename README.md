@@ -19,15 +19,12 @@
 
 </div>
 
-<br/>
 
 ### now
 
 - comp eng @ university of waterloo
 - prev. swe intern @ baseleaf
 - interested in ai/ml r&d + implementation
-
-<br/>
 
 </div>
 
