@@ -12,7 +12,7 @@
 
 - comp eng @ university of waterloo
 - prev. swe intern @ baseleaf
-- interested in ml + research
+- interested in ml + audio + research
 
 </div>
 
